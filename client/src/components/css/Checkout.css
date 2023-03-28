@@ -1,0 +1,14 @@
+.review-button {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: #d25112;
+  color: #fff;
+  padding: 10px 0;
+  display: block;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 15px;
+  border-radius: 2px;
+}

@@ -1,0 +1,33 @@
+.card-main {
+  text-align: center;
+  padding-top: 20px;
+  color: #000;
+}
+.favorites-list {
+  display: flex;
+}
+.favorites-button button {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  margin-top: 10px;
+  padding: 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  cursor: pointer;
+}
+.theme-card-main {
+  text-align: center;
+  padding-top: 20px;
+  color: #fff;
+}
+
+.title-column .game-name a {
+  color: #000;
+}
+
+.theme-title-column .game-name a {
+  color: #fff;
+}
